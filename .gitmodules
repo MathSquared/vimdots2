@@ -37,3 +37,6 @@
 [submodule ".vim/pack/plugins/start/vim-jsx-pretty"]
 	path = .vim/pack/plugins/start/vim-jsx-pretty
 	url = https://github.com/MaxMEllon/vim-jsx-pretty
+[submodule ".vim/pack/plugins/start/haskell-vim"]
+	path = .vim/pack/plugins/start/haskell-vim
+	url = https://github.com/neovimhaskell/haskell-vim.git
