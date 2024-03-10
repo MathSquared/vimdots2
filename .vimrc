@@ -47,8 +47,8 @@ map <F3> :Vista!!<CR>
 " :Files from fzf.vim
 map <F4> :Files<CR>
 
-" Only show ALE errors as virtual comments on the current line, not all lines
-let g:ale_virtualtext_cursor = 'current'
+" Don't show ALE errors as virtual comments
+let g:ale_virtualtext_cursor = 'disabled'
 
 " Open all folds https://stackoverflow.com/q/8316139/1979005
 augroup open_folds
